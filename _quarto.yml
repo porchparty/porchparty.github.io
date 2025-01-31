@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "PorchParty"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+
+format:
+  html:
+    theme: lux
+    css: include/css/styles.css
+    # toc: true
