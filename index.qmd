@@ -4,3 +4,47 @@ format: html
 ---
 
 ![](include/img/logo.png)
+
+## Upcoming events
+
+March 7th – Happy Valley Winery, State College, PA \
+April 24th – Art After Hours at the Palmer Museum of Art, Penn State University \
+April 25th – Penn State Student Farm \
+May 30th – Happy Valley Winery, State College, PA \
+June 6th – Happy Valley Winery, State College, PA \
+July 11th – Concerts on the Green, Lemont PA \
+
+:::: {.columns}
+::: {.column width=40%}
+## About us
+
+*PorchParty* is a group of seasoned musicians in Central Pennsylvania who have played in many local bands or solo over the past 20+ years. The group plays an eclectic selection of songs from the 60's, 70's and 80's ranging from country to folk to classic rock.
+:::
+::: {.column width=10%}
+:::
+::: {.column width=40%}
+## The band
+ 
+*Michelle Katz* on lead vocals, acoustic guitar, and banjo; *Mickey Tomasetti* on lead vocals, acoustic beatbox, and percussion; *Liz Lasher* on piano and harmonica; *Tom Mallouk* on bass and acoustic guitar, and *Randy Doughty* on fretless bass.
+:::
+::::
+
+## Music
+ 
+A sampling of the artists that we cover includes: 
+
+Tom Petty \
+Crosby, Stills, and Nash \
+John Denver \
+Nanci Griffith \
+Bob Dylan \
+Bonnie Raitt \
+Dolly Parton \
+Amy Winehouse \
+Indigo Girls \
+Beatles \
+Etta James \
+Bill Staines \
+Carly Simon \
+Tracy Chapman \
+America \
