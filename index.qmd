@@ -56,7 +56,7 @@ plot(qrcode::qr_code("mailto:porchpartyband@gmail.com?subject=Inquiry"))
 
 ::: {layout-ncol=2}
 
-![Join our low-traffic mailing list](include/fig/qr-mailing-list-1.png)
+![Join our low-traffic mailing list: <https://forms.gle/HLjYbbmjtwE8D3CZ6>](include/fig/qr-mailing-list-1.png)
 
 ![Send email to: porchpartyband AT gmail DOT com](include/fig/qr-email-1.png)
 :::
