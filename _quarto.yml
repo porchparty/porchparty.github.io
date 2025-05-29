@@ -15,3 +15,7 @@ format:
     theme: lux
     css: include/css/styles.css
     # toc: true
+    
+knitr:
+  opts_chunk:
+    fig.path: include/fig/    

@@ -40,9 +40,27 @@ July 11th, 7:30-9p – Concerts on the [Lemont Village Green](https://www.lemont
 
 ## Keep in touch
 
-*Join our mailing list*: <https://forms.gle/HLjYbbmjtwE8D3CZ6>
+```{r}
+#| echo: false
+#| include: false
+#| label: qr-mailing-list
+plot(qrcode::qr_code("https://forms.gle/HLjYbbmjtwE8D3CZ6"))
+```
 
-*Send us an email*: porchpartyband AT gmail DOT com
+```{r}
+#| echo: false
+#| include: false
+#| label: qr-email
+plot(qrcode::qr_code("mailto:porchpartyband@gmail.com?subject=Inquiry"))
+```
+
+::: {layout-ncol=2}
+
+![Join our low-traffic mailing list](include/fig/qr-mailing-list-1.png)
+
+![Send email to: porchpartyband AT gmail DOT com](include/fig/qr-email-1.png)
+:::
+
 
 ## Music
  
