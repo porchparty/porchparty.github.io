@@ -7,10 +7,10 @@ format: html
 
 ## Upcoming events
 
-May 30th, 6-8p – Happy Valley Winery, State College, PA \
-June 6th, 6-8p – Happy Valley Winery, State College, PA \
-July 2nd, 6-8p – Penn State Student Farm, State College, PA \
-July 11th, 7:30-9p – Concerts on the Green, Lemont PA \
+May 30th, 6-8p – [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA \
+June 6th, 6-8p – [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA \
+July 2nd, 6-8p – [Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA \
+July 11th, 7:30-9p – Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA \
 
 :::: {.columns}
 ::: {.column width=66%}
@@ -37,6 +37,12 @@ July 11th, 7:30-9p – Concerts on the Green, Lemont PA \
 *Michelle Katz* on lead vocals, acoustic guitar, and banjo; *Mickey Tomasetti* on lead vocals, acoustic beatbox, and percussion; *Liz Lasher* on piano and harmonica; *Tom Mallouk* on bass and acoustic guitar, and *Randy Doughty* on fretless bass.
 :::
 ::::
+
+## Keep in touch
+
+*Join our mailing list*: <https://forms.gle/HLjYbbmjtwE8D3CZ6>
+
+*Send us an email*: porchpartyband AT gmail DOT com
 
 ## Music
  
