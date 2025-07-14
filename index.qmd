@@ -5,16 +5,11 @@ format: html
 
 ![](include/img/logo.png)
 
-## Upcoming events
-
-<!-- May 30th, 6-8p – [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA \ -->
-<!-- June 6th, 6-8p – [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA \ -->
-<!-- July 2nd, 6-8p – [Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA \ -->
-<!-- July 11th, 7:30-9p – Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA \ -->
+## Events
 
 :::: {.columns}
 ::: {.column width=40%}
-September 20, 6:30-8:30p
+September 20, 2025, 6:30-8:30p
 :::
 ::: {.column width=60%}
 Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University Wine Company](https://www.universitywineco.com/), State College, PA. [Map](https://maps.app.goo.gl/nfx3gSveG4Euzkn59)
@@ -23,7 +18,7 @@ Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University 
 
 :::: {.columns}
 ::: {.column width=40%}
-November 3, 6:00-8:00p
+October 3, 2025, 6:00-8:00p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -31,6 +26,47 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 ::::
 
 <!-- See a Google Calendar with our upcoming shows: <https://calendar.google.com/calendar/embed?src=porchpartyband%40gmail.com&ctz=America%2FNew_York> -->
+
+### Past events
+
+:::: {.columns}
+::: {.column width=40%}
+July 11th, 2025, 7:30-9p
+:::
+::: {.column width=60%}
+Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+July 2nd, 2025, 6-8p
+:::
+::: {.column width=60%}
+[Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+June 6, 2025, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+May 30th, 2025, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+
+---
 
 :::: {.columns}
 ::: {.column width=66%}
@@ -43,8 +79,11 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 :::
 ::::
 
+---
+
 :::: {.columns}
 ::: {.column width=40%}
+
 ## About us
 
 *PorchParty* is a group of seasoned musicians in Central Pennsylvania who have played in many local bands or solo over the past 20+ years. The group plays an eclectic selection of songs from the 60's, 70's and 80's ranging from country to folk to classic rock.
