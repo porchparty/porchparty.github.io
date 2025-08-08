@@ -3,7 +3,18 @@ title: ""
 format: html
 ---
 
-![](include/img/logo.png)
+
+:::: {.columns}
+::: {.column width=45%}
+![](include/img/porch_party_final_decision_Sticker.png)
+:::
+::: {.column width=5%}
+:::
+::: {.column width=50%}
+
+\
+\
+\
 
 ## Events
 
@@ -26,6 +37,10 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 ::::
 
 <!-- See a Google Calendar with our upcoming shows: <https://calendar.google.com/calendar/embed?src=porchpartyband%40gmail.com&ctz=America%2FNew_York> -->
+:::
+::::
+<!-- ![](include/img/logo.png) -->
+
 
 ### Past events
 
