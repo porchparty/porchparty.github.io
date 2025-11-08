@@ -3,68 +3,13 @@ title: ""
 format: html
 ---
 
-
-:::: {.columns}
-::: {.column width=45%}
 ![](include/img/porch_party_final_decision_Sticker.png)
-:::
-::: {.column width=5%}
-:::
-::: {.column width=50%}
 
-\
-\
-\
-
-## Events
+### Events
 
 :::: {.columns}
 ::: {.column width=40%}
-September 20, 2025, 6:30-8:30p
-:::
-::: {.column width=60%}
-Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University Wine Company](https://www.universitywineco.com/), State College, PA. [Map](https://maps.app.goo.gl/nfx3gSveG4Euzkn59)
-:::
-::::
-
-:::: {.columns}
-::: {.column width=40%}
-October 3, 2025, 6:00-8:00p
-:::
-::: {.column width=60%}
-Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
-:::
-::::
-
-<!-- See a Google Calendar with our upcoming shows: <https://calendar.google.com/calendar/embed?src=porchpartyband%40gmail.com&ctz=America%2FNew_York> -->
-:::
-::::
-<!-- ![](include/img/logo.png) -->
-
-
-### Past events
-
-:::: {.columns}
-::: {.column width=40%}
-July 11th, 2025, 7:30-9p
-:::
-::: {.column width=60%}
-Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
-:::
-::::
-
-:::: {.columns}
-::: {.column width=40%}
-July 2nd, 2025, 6-8p
-:::
-::: {.column width=60%}
-[Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA
-:::
-::::
-
-:::: {.columns}
-::: {.column width=40%}
-June 6, 2025, 6-8p
+November 15, 2025, 7-9p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -73,12 +18,83 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
-May 30th, 2025, 6-8p
+January 30, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
 :::
 ::::
+
+:::: {.columns}
+::: {.column width=40%}
+May 1, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+May 29, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+June 19, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+<!-- ## Past events -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- September 20, 2025, 6:30-8:30p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University Wine Company](https://www.universitywineco.com/), State College, PA. [Map](https://maps.app.goo.gl/nfx3gSveG4Euzkn59) -->
+<!-- ::: -->
+<!-- ::: {.column width=40%} -->
+<!-- July 11th, 2025, 7:30-9p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- July 2nd, 2025, 6-8p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- [Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- June 6, 2025, 6-8p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
+<!-- ::: -->
+<!-- :::: -->
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- May 30th, 2025, 6-8p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
+<!-- ::: -->
+<!-- :::: -->
 
 
 ---
