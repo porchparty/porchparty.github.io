@@ -7,12 +7,22 @@ format: html
 
 ### Events
 
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- November 15, 2025, 7-9p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
+<!-- ::: -->
+<!-- :::: -->
+
 :::: {.columns}
 ::: {.column width=40%}
-November 15, 2025, 7-9p
+December 5, 2025, 5:30-8p
 :::
 ::: {.column width=60%}
-Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Exhibition Opening](https://www.clearwaterconservancy.org/all-events/artandchocolate).
+Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
 :::
 ::::
 
@@ -42,6 +52,15 @@ May 29, 2026, 6-8p
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
 :::
 ::::
+
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- June 5, 2026, 6-8p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- Concert at  -->
+<!-- ::: -->
+<!-- :::: -->
 
 :::: {.columns}
 ::: {.column width=40%}
