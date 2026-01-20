@@ -16,15 +16,15 @@ format: html
 <!-- ::: -->
 <!-- :::: -->
 
-:::: {.columns}
-::: {.column width=40%}
-December 5, 2025, 5:30-8p
-:::
-::: {.column width=60%}
-[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Exhibition Opening](https://www.clearwaterconservancy.org/all-events/artandchocolate).
-Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
-:::
-::::
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- December 5, 2025, 5:30-8p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- [Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Exhibition Opening](https://www.clearwaterconservancy.org/all-events/artandchocolate). -->
+<!-- Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7). -->
+<!-- ::: -->
+<!-- :::: -->
 
 :::: {.columns}
 ::: {.column width=40%}
@@ -32,6 +32,16 @@ January 30, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+February 6, 2026, 5-8p
+:::
+::: {.column width=60%}
+[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Celebration](https://www.clearwaterconservancy.org/all-events/artandchocolate).
+Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
 :::
 ::::
 
