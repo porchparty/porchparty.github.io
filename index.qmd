@@ -74,10 +74,28 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
+June 10, 2026, 5:30-7:30p
+:::
+::: {.column width=60%}
+[Live after 5 Summer Concert Series](https://downtownstatecollege.com/live-after-5-2/), MLK Plaza, Downtown State College, PA.
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
 June 19, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+August 7, 2026, 7:30-9p
+:::
+::: {.column width=60%}
+Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
 :::
 ::::
 
