@@ -28,7 +28,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=40%}
-January 30, 2026, 6-8p
+Friday, January 30, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -37,7 +37,7 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
-February 6, 2026, 5-8p
+Friday, February 6, 2026, 5-8p
 :::
 ::: {.column width=60%}
 [Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Celebration](https://www.clearwaterconservancy.org/all-events/artandchocolate).
@@ -47,7 +47,7 @@ Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, St
 
 :::: {.columns}
 ::: {.column width=40%}
-May 1, 2026, 6-8p
+•Saturday, March 14, 2026, 7-9p•
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -56,7 +56,16 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
-May 29, 2026, 6-8p
+Friday, May 1, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+Friday, May 29, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -74,16 +83,25 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
-June 10, 2026, 5:30-7:30p
+Wednesday, June 10, 2026, 5:30-7:30p
 :::
 ::: {.column width=60%}
 [Live after 5 Summer Concert Series](https://downtownstatecollege.com/live-after-5-2/), MLK Plaza, Downtown State College, PA.
 :::
 ::::
 
+<!-- :::: {.columns} -->
+<!-- ::: {.column width=40%} -->
+<!-- Saturday, June 13, 2026, 1-4p -->
+<!-- ::: -->
+<!-- ::: {.column width=60%} -->
+<!-- [State College Pride](https://www.facebook.com/StateCollegeCom/posts/the-annual-event-now-in-its-sixth-year-is-set-for-june-13/1447254190739651/), Sidney Friedman Park, Downtown State College, PA. [Map](https://www.google.com/maps/place/Sidney+Friedman+Park/@40.7917101,-77.8598275,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea8a283afbe5b:0xa5f950bae6ebb12!8m2!3d40.7917101!4d-77.8598275!16s%2Fg%2F1txy39mm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D) -->
+<!-- ::: -->
+<!-- :::: -->
+
 :::: {.columns}
 ::: {.column width=40%}
-June 19, 2026, 6-8p
+Friday, June 19, 2026, 6-8p
 :::
 ::: {.column width=60%}
 Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
@@ -92,7 +110,7 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 
 :::: {.columns}
 ::: {.column width=40%}
-August 7, 2026, 7:30-9p
+Friday, August 7, 2026, 7:30-9p
 :::
 ::: {.column width=60%}
 Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
@@ -171,7 +189,7 @@ Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/conc
 ::: {.column width=40%}
 ## The band
  
-*Michelle Katz* on lead vocals, acoustic guitar, and banjo; *Mickey Tomasetti* on lead vocals, acoustic beatbox, and percussion; *Liz Lasher* on piano and harmonica; *Tom Mallouk* on bass and acoustic guitar, and *Randy Doughty* on fretless bass.
+*Michelle Katz* on lead vocals, acoustic guitar, and banjo; *Mickey Tomasetti* on lead vocals, acoustic beatbox, and percussion; *Liz Lasher* on piano, harmonica, and accordion; *Tom Mallouk* on bass and acoustic guitar, and *Randy Doughty* on fretless bass.
 :::
 ::::
 
