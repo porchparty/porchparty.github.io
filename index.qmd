@@ -3,56 +3,13 @@ title: ""
 format: html
 ---
 
-![](include/img/porch_party_final_decision_Sticker.png)
+![](include/img/porch_party_final_decision_Sticker.png){width="600px" fig-align="center"}
 
 ### Events
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- November 15, 2025, 7-9p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
-<!-- ::: -->
-<!-- :::: -->
+::: {.panel-tabset}
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- December 5, 2025, 5:30-8p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- [Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Exhibition Opening](https://www.clearwaterconservancy.org/all-events/artandchocolate). -->
-<!-- Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7). -->
-<!-- ::: -->
-<!-- :::: -->
-
-:::: {.columns}
-::: {.column width=40%}
-Friday, January 30, 2026, 6-8p
-:::
-::: {.column width=60%}
-Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
-:::
-::::
-
-:::: {.columns}
-::: {.column width=40%}
-Friday, February 6, 2026, 5-8p
-:::
-::: {.column width=60%}
-[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Celebration](https://www.clearwaterconservancy.org/all-events/artandchocolate).
-Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
-:::
-::::
-
-:::: {.columns}
-::: {.column width=40%}
-•Saturday, March 14, 2026, 6-8p•
-:::
-::: {.column width=60%}
-Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
-:::
-::::
+## Upcoming
 
 :::: {.columns}
 ::: {.column width=40%}
@@ -86,18 +43,18 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 Wednesday, June 10, 2026, 5:30-7:30p
 :::
 ::: {.column width=60%}
-[Live after 5 Summer Concert Series](https://downtownstatecollege.com/live-after-5-2/), MLK Plaza, Downtown State College, PA.
+[Live after 5 Summer Concert Series](https://downtownstatecollege.com/live-after-5-2/), MLK Plaza, Downtown State College, PA. [Map](https://maps.app.goo.gl/9iXLAzmBcxbawspd6)
 :::
 ::::
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- Saturday, June 13, 2026, 1-4p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- [State College Pride](https://www.facebook.com/StateCollegeCom/posts/the-annual-event-now-in-its-sixth-year-is-set-for-june-13/1447254190739651/), Sidney Friedman Park, Downtown State College, PA. [Map](https://www.google.com/maps/place/Sidney+Friedman+Park/@40.7917101,-77.8598275,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea8a283afbe5b:0xa5f950bae6ebb12!8m2!3d40.7917101!4d-77.8598275!16s%2Fg%2F1txy39mm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D) -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns}
+::: {.column width=40%}
+Saturday, June 13, 2026, 1-4p
+:::
+::: {.column width=60%}
+[State College Pride Festival](https://www.facebook.com/StateCollegeCom/posts/the-annual-event-now-in-its-sixth-year-is-set-for-june-13/1447254190739651/), Sidney Friedman Park, Downtown State College, PA. [Map](https://www.google.com/maps/place/Sidney+Friedman+Park/@40.7917101,-77.8598275,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea8a283afbe5b:0xa5f950bae6ebb12!8m2!3d40.7917101!4d-77.8598275!16s%2Fg%2F1txy39mm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D)
+:::
+::::
 
 :::: {.columns}
 ::: {.column width=40%}
@@ -113,54 +70,111 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 Friday, August 7, 2026, 7:30-9p
 :::
 ::: {.column width=60%}
-Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
+Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA. [Map](https://maps.app.goo.gl/1HsvikgfkK5uNFG4A)
 :::
 ::::
 
-<!-- ## Past events -->
+:::: {.columns}
+::: {.column width=40%}
+Sunday, August 23, 2026, 6-8p
+:::
+::: {.column width=60%}
+The Music Picnic Series at [South Hills School of Business & Technology](http://southhills.edu/locations/state-college/), State College, PA. [Map](https://maps.app.goo.gl/on8Ldgas9pkq4hY9A)
+:::
+::::
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- September 20, 2025, 6:30-8:30p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University Wine Company](https://www.universitywineco.com/), State College, PA. [Map](https://maps.app.goo.gl/nfx3gSveG4Euzkn59) -->
-<!-- ::: -->
-<!-- ::: {.column width=40%} -->
-<!-- July 11th, 2025, 7:30-9p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA -->
-<!-- ::: -->
-<!-- :::: -->
+## Past
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- July 2nd, 2025, 6-8p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- [Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns}
+::: {.column width=40%}
+Saturday, March 14, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- June 6, 2025, 6-8p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns}
+::: {.column width=40%}
+Friday, February 6, 2026, 5-8p
+:::
+::: {.column width=60%}
+[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Celebration](https://www.clearwaterconservancy.org/all-events/artandchocolate).
+Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
+:::
+::::
 
-<!-- :::: {.columns} -->
-<!-- ::: {.column width=40%} -->
-<!-- May 30th, 2025, 6-8p -->
-<!-- ::: -->
-<!-- ::: {.column width=60%} -->
-<!-- Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6) -->
-<!-- ::: -->
-<!-- :::: -->
+:::: {.columns}
+::: {.column width=40%}
+Friday, January 30, 2026, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
 
+:::: {.columns}
+::: {.column width=40%}
+December 5, 2025, 5:30-8p
+:::
+::: {.column width=60%}
+[Clearwater Conservancy](https://www.clearwaterconservancy.org) Art & Chocolate [Exhibition Opening](https://www.clearwaterconservancy.org/all-events/artandchocolate).
+Concert at [3 Dots Downtown](https://3dotsdowntown.com), 137 East Beaver Ave, State College PA 16801. [Map](https://maps.app.goo.gl/HcrA3puCaMRdM8PB7).
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+November 15, 2025, 7-9p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+September 20, 2025, 6:30-8:30p
+:::
+::: {.column width=60%}
+Fundraiser for the [Jared Box Project](https://thejaredbox.org/) at [University Wine Company](https://www.universitywineco.com/), State College, PA. [Map](https://maps.app.goo.gl/nfx3gSveG4Euzkn59)
+:::
+::: {.column width=40%}
+July 11th, 2025, 7:30-9p
+:::
+::: {.column width=60%}
+Concerts on the [Lemont Village Green](https://www.lemontvillage.org/related/concerts-on-the-village-green), Lemont PA
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+July 2nd, 2025, 6-8p
+:::
+::: {.column width=60%}
+[Penn State Student Farm](https://www.studentfarm.psu.edu), State College, PA
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+June 6, 2025, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::: {.columns}
+::: {.column width=40%}
+May 30th, 2025, 6-8p
+:::
+::: {.column width=60%}
+Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), State College, PA. [Map](https://maps.app.goo.gl/x447WKWpJtPcogdF6)
+:::
+::::
+
+:::
 
 ---
 
@@ -179,6 +193,7 @@ Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/conc
 
 :::: {.columns}
 ::: {.column width=40%}
+
 
 ## About us
 
