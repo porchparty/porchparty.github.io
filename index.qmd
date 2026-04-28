@@ -49,7 +49,7 @@ Wednesday, June 10, 2026, 5:30-7:30p
 
 :::: {.columns}
 ::: {.column width=40%}
-Saturday, June 13, 2026, 1-4p
+Saturday, June 13, 2026, 12:15-1:15p
 :::
 ::: {.column width=60%}
 [State College Pride Festival](https://www.facebook.com/StateCollegeCom/posts/the-annual-event-now-in-its-sixth-year-is-set-for-june-13/1447254190739651/), Sidney Friedman Park, Downtown State College, PA. [Map](https://www.google.com/maps/place/Sidney+Friedman+Park/@40.7917101,-77.8598275,17z/data=!3m1!4b1!4m6!3m5!1s0x89cea8a283afbe5b:0xa5f950bae6ebb12!8m2!3d40.7917101!4d-77.8598275!16s%2Fg%2F1txy39mm!5m1!1e4?entry=ttu&g_ep=EgoyMDI2MDIxOC4wIKXMDSoASAFQAw%3D%3D)
@@ -76,7 +76,7 @@ Concert on the [Lemont Village Green](https://www.lemontvillage.org/related/conc
 
 :::: {.columns}
 ::: {.column width=40%}
-Sunday, August 23, 2026, 6-8p
+Sunday, August 23, 2026, 6-7:30p
 :::
 ::: {.column width=60%}
 The Music Picnic Series at [South Hills School of Business & Technology](http://southhills.edu/locations/state-college/), State College, PA. [Map](https://maps.app.goo.gl/on8Ldgas9pkq4hY9A)
@@ -188,6 +188,8 @@ Concert at [Happy Valley Winery](https://www.thehappyvalleywinery.com/welcome), 
 ![](include/img/DSC_0006.JPG)
 :::
 ::::
+
+![](include/img/bridge.jpg)
 
 ---
 
